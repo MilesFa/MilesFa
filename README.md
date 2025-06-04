@@ -1,6 +1,6 @@
 <h2 align="center">👋 Welcome to Miles's GitHub profile</h2>
 
-<h3 align="center">👨‍💻 I'm starting the Frontend, because I'm quite interested in it.</h3>
+<h3 align="center">👨‍💻 I'm starting the development, because I'm quite interested in it.</h3>
 
 ---
 
